@@ -9,3 +9,6 @@ To properly run this notebook follow these steps after loading project into the 
  7. Read the Data Pre-Processing section of the notebook and edit the PRE_PROCESS and DEMO variables for your needs (PRE_PROCCESS will need to be set to True on the initial run of the notebook. DEMO decides if the processing occurs on the entire dataset or just a subset to demonstrate processing works.)
 
 NOTE to properly run the eval section, you will need to run the preprocessing pipeline with DEMO=False,
+
+
+Project video https://drive.google.com/file/d/1xFyTLpalBi0ZGYDT4VsQ9nOTWCg-bqJf/view
